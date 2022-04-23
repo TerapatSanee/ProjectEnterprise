@@ -1,0 +1,1 @@
+<% response.sendRedirect("inventory/list"); %> 

@@ -1,0 +1,6 @@
+127.0.0.1 - - [06/May/2021:14:42:13 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/May/2021:14:42:14 +0700] "GET /hb-project/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [06/May/2021:14:42:14 +0700] "GET /hb-project/inventory/list HTTP/1.1" 200 109862
+0:0:0:0:0:0:0:1 - - [06/May/2021:14:42:14 +0700] "GET /hb-project/resources/css/style.css HTTP/1.1" 200 1919
+0:0:0:0:0:0:0:1 - - [06/May/2021:14:43:22 +0700] "GET /hb-project/inventory/search?theSearchName=360 HTTP/1.1" 200 23946
+0:0:0:0:0:0:0:1 - - [06/May/2021:14:43:27 +0700] "GET /hb-project/inventory/search?theSearchName= HTTP/1.1" 200 109862

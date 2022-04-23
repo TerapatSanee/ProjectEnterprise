@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Sat Apr 23 15:22:33 ICT 2022
+org.eclipse.jst.jee.server\:/binary\:D\:\\Project\ ENTERPRISE\\hb-project\\WebContent\\WEB-INF\\lib\\spring-web-5.3.3-sources.jar=WEB-INF/lib/spring-web-5.3.3-sources.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Lenovo\\Desktop\\Project\ ENTERPRISE\\hb-project\\WebContent\\WEB-INF\\lib\\spring-web-5.3.3-sources.jar=WEB-INF/lib/spring-web-5.3.3-sources.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Lenovo\\Desktop\\Project\ ENTERPRISE\\hb-project\\WebContent\\WEB-INF\\lib\\spring-web-5.3.3.jar=WEB-INF/lib/spring-web-5.3.3.jar
+org.eclipse.jst.jee.server\:/binary\:D\:\\Project\ ENTERPRISE\\hb-project\\WebContent\\WEB-INF\\lib\\spring-web-5.3.3.jar=WEB-INF/lib/spring-web-5.3.3.jar
